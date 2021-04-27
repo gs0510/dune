@@ -7,7 +7,7 @@ end
 
 module Output = struct
   type measurement =
-    [ `Int of int
+    [ `Int of int  
     | `Float of float
     ]
 
