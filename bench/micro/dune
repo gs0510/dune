@@ -11,3 +11,4 @@
   ; https://github.com/ocaml/dune/pull/3575
   false)
  (libraries dune_bench core_bench.inline_benchmarks))
+
